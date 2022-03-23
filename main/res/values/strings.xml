@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="imp">Implicit</string>
+    <string name="exp">Explicit</string>
+    <string name="pal">Palindrome</string>
+    <string name="volcont">Vowel Counter</string>
+    <string name="strcont">String Counter</string>
+    <string name="color">Color Resources</string>
+    <string name="submit">Submit</string>
+    <string name="none">Result</string>
+    <string name="clear">Clear</string>
+    <string name="hint">Enter value</string>
+    <string name="hr">Hour</string>
+    <string name="min">Minutes</string>
+    <string name="msg">Message</string>
+    <string name="error">Error</string>
+
+</resources>
